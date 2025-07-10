@@ -44,7 +44,7 @@ export default function Screen() {
           <ErrorMessage name="username" />
           <br></br>
           <label for="username" class="form-label">
-            Username
+            Loginname
           </label>
           <Field
             name="username"
